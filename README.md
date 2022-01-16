@@ -3,38 +3,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Furkan-Simsek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 -------
-Merhaba Ben Furkan Şimşek
-
-İlgi alanım Kodlama
-
-İletişim için : </p>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Specialf_forces)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sNrQwFaABR)
-
-
-Bilinen Proglamlama dilleri: </p>
-Python,
- Javascript,
- HTML,
- CSS,
- C#,
- C,
- C++,
- Java
-
-------------------------
-
-
-
-
-
+# My profiles
+* Patika dev : https://app.patika.dev/furkan-simsek
+* Wikipedia : https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1:FrnkPro
+* Stack Overflow : https://stackoverflow.com/users/17933657/frnk
+* HackerRank : https://www.hackerrank.com/tcfurkansimsek
+* Discord : https://discord.gg/sNrQwFaABR
+* Twitter : (https://twitter.com/Specialf_forces
+-----
 Hello, I'm Furkan Şimşek
 
 My area of interest is Coding
-
-To communicate : </p>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Specialf_forces)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sNrQwFaABR)
 
 
 Known Programming Languages:</p>
