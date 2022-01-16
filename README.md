@@ -10,6 +10,7 @@
 * HackerRank : https://www.hackerrank.com/tcfurkansimsek
 * Discord : https://discord.gg/sNrQwFaABR
 * Twitter : (https://twitter.com/Specialf_forces
+* [Sertifikalar](certificate.md)
 -----
 Hello, I'm Furkan Şimşek
 
