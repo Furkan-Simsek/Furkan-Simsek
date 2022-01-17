@@ -8,7 +8,7 @@
 * Wikipedia : https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1:FrnkPro
 * Stack Overflow : https://stackoverflow.com/users/17933657/frnk
 * HackerRank : https://www.hackerrank.com/tcfurkansimsek
-* Discord : https://discord.gg/sNrQwFaABR
+* Discord : https://discord.com/users/555434831794798592
 * Twitter : https://twitter.com/Specialf_forces
 * Linkedin : https://www.linkedin.com/in/furkan-%C5%9Fim%C5%9Fek-86690b1a1/
 * [Sertifikalar](certificate.md)
