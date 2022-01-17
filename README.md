@@ -18,13 +18,13 @@ Hello, I'm Furkan Şimşek
 My area of interest is Coding
 
 
-Known Programming Languages:</p>
-Python,
- Javascript,
- HTML,
- CSS,
- C#,
- C,
- C++,
- Java
+### Known Programming Languages:</p>
+* Python,
+* Javascript,
+* HTML,
+* CSS,
+* C#, 
+* C,
+* C++,
+* Java
 
