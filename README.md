@@ -18,7 +18,7 @@ Hello, I'm Furkan Şimşek
 My area of interest is Coding
 
 
-### Known Programming Languages:</p>
+### I Known:</p>
 * Python,
 * Javascript,
 * HTML,
@@ -26,5 +26,6 @@ My area of interest is Coding
 * C#, 
 * C,
 * C++,
-* Java
+* Java,
+* SQL
 
