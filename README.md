@@ -13,9 +13,10 @@
 * Linkedin : https://www.linkedin.com/in/furkan-%C5%9Fim%C5%9Fek-86690b1a1/
 * [Sertifikalar](certificate.md)
 -----
-Hello, I'm Furkan Şimşek
 
-My area of interest is Coding
+# 👋 Hello
+<p> I'm Furkan Şimşek </br>
+My area of interest is Coding</br>
 
 
 ### I Known:</p>
@@ -29,3 +30,4 @@ My area of interest is Coding
 * Java,
 * SQL
 
+</p>
