@@ -11,6 +11,7 @@
 * Discord : https://discord.com/users/555434831794798592
 * Twitter : https://twitter.com/Specialf_forces
 * Linkedin : https://www.linkedin.com/in/furkan-%C5%9Fim%C5%9Fek-86690b1a1/
+* Gitlab: https://gitlab.com/Furkan-Simsek
 * [Sertifikalar](certificate.md)
 -----
 
