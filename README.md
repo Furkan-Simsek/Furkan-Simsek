@@ -1,34 +1,30 @@
+<h1 align="center">Hi 👋, I'm Furkan Şimşek</h1>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
-# My profiles
-* Patika dev : https://app.patika.dev/furkan-simsek
-* Wikipedia : https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1:FrnkPro
-* Stack Overflow : https://stackoverflow.com/users/17933657/frnk
-* HackerRank : https://www.hackerrank.com/tcfurkansimsek
-* Discord : https://discord.com/users/555434831794798592
-* Twitter : https://twitter.com/Specialf_forces
-* Linkedin : https://www.linkedin.com/in/furkan-%C5%9Fim%C5%9Fek-86690b1a1/
-* Gitlab: https://gitlab.com/Furkan-Simsek
-* [Sertifikalar](certificate.md)
------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkan-simsek&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-simsek" /> </p>
 
-# 👋 Hello
-<p> I'm Furkan Şimşek </br>
-My area of interest is Coding</br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkan-simsek" alt="furkan-simsek" /></a> </p>
 
+- 🌱 I’m currently learning **c#**
 
-### I Known:
-* Python,
-* Javascript,
-* HTML,
-* CSS,
-* C#, 
-* Java,
-* SQL
-------------
+- 👨‍💻 All of my projects are available at [github.com/furkan-simsek](github.com/furkan-simsek)
+- [Sertifikalar](certificate.md)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-# 📈 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-Simsek&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true" /> 
-<img src="https://github-readme-stats.vercel.app/api?username=Furkan-Simsek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/furkansimsek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="furkansimsek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/simsek-furkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simsek-furkan" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkan-simsek&show_icons=true&locale=en&layout=compact" alt="furkan-simsek" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkan-simsek&show_icons=true&locale=en" alt="furkan-simsek" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-simsek&" alt="furkan-simsek" /></p>
