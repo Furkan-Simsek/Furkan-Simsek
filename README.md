@@ -31,7 +31,4 @@ My area of interest is Coding</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-Simsek&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true" /> 
 <img src="https://github-readme-stats.vercel.app/api?username=Furkan-Simsek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
-![](https://hit.yhype.me/github/profile?user_id=83591761)
