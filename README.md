@@ -26,8 +26,6 @@ My area of interest is Coding</br>
 * HTML,
 * CSS,
 * C#, 
-* C,
-* C++,
 * Java,
 * SQL
 
