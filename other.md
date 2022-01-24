@@ -6,7 +6,7 @@
 * HTML5 (Turkcell Academy) : https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/furkan.simsek09/Web%20Programlama/101
 * Front-End Web Development : https://app.patika.dev/sertifikalar/Ho2H9mb
 ------
-#My profiles
+# My profiles
 * Patika.dev: https://app.patika.dev/furkan-simsek
 * Gitlab: https://gitlab.com/Furkan-Simsek
 * Stack Overflow: https://stackoverflow.com/users/17933657/frnk
