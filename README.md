@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **c#**
 
 - 👨‍💻 All of my projects are available at [github.com/furkan-simsek](github.com/furkan-simsek)
-- [Other](certificate.md)
+- [Other](other.md)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
