@@ -5,6 +5,7 @@
 * Unity (slow page / BTK) : https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=bqx8D3pk
 * HTML5 (Turkcell Academy) : https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/furkan.simsek09/Web%20Programlama/101
 * Front-End Web Development : https://app.patika.dev/sertifikalar/Ho2H9mb
+* Linux 101 (Turkcell Academy) : https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/furkan.simsek09/Temel%20Linux/101
 ------
 # My profiles
 * Patika dev : https://app.patika.dev/furkan-simsek
