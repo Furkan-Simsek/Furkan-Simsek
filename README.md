@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **.Net, Go(lang), Node.js**
 
-- 🤝 I’m looking for help with **discord and twitter**
+- 🤝 I’m looking for help with **Go file operations**
 
 - 👨‍💻 All of my projects are available at [github.com/Furkan-Simsek?tab=repositories](github.com/Furkan-Simsek?tab=repositories)
 
