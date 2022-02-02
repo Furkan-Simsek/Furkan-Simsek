@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkan-simsek" alt="furkan-simsek" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/specialf_forces" target="blank"><img src="https://img.shields.io/twitter/follow/specialf_forces?logo=twitter&style=for-the-badge" alt="specialf_forces" /></a> </p>
-
 - 🔭 I’m currently working on **SQL, Go(lang) and Python**
 
 - 🌱 I’m currently learning **.Net, Go(lang), Node.js**
