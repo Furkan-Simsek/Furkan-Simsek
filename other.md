@@ -16,5 +16,5 @@
 * HackerRank : https://www.hackerrank.com/tcfurkansimsek
 * Discord : https://discord.com/users/555434831794798592
 * Twitter : https://twitter.com/Specialf_forces
-* Linkedin : https://www.linkedin.com/in/s,msek-furkan
+* Linkedin : https://www.linkedin.com/in/simsek-furkan
 * Gitlab: https://gitlab.com/Furkan-Simsek
