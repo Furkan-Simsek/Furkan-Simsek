@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Furkan-Simsek?tab=repositories](github.com/Furkan-Simsek?tab=repositories)
 
-- 📫 How to reach me **contact@furkan-simsek.slmail.me (Main e-mail address not provided for security)**
+- 📫 How to reach me **furkan.simsek09@hotmail.com**
 
 - [Other](other.md)
 
