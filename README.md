@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Şimşek</h1>
 <h3 align="center">A passionate Back-End developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkan-simsek&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-simsek" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkan-simsek" alt="furkan-simsek" /></a> </p>
-
+![](https://hit.yhype.me/github/profile?user_id=83591761)
 - 🔭 I’m currently working on **SQL, Go(lang) and Python**
 
 - 🌱 I’m currently learning **.Net, Go(lang), Node.js**
