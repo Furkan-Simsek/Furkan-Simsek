@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Back-End developer from Turkey</h3>
 
 ![](https://hit.yhype.me/github/profile?user_id=83591761)
-- 🔭 I’m currently working on **SQL, Go(lang) and Python**
+- 🔭 I’m currently working on **My Website**
 
-- 🌱 I’m currently learning **.Net, Go(lang), Node.js**
+- 🌱 I’m currently learning **.Net, Rust, Node.js**
 
 - 🤝 I’m looking for help with **Go file operations**
 
