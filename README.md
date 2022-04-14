@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Şimşek</h1>
 <h3 align="center">A passionate Back-End developer from Turkey</h3>
 
+![](https://komarev.com/ghpvc/?username=Furkan-Simsek)
 ![](https://hit.yhype.me/github/profile?user_id=83591761)
 - 🔭 I’m currently working on **My Website**
 
