@@ -3,9 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Furkan-Simsek)
 ![](https://hit.yhype.me/github/profile?user_id=83591761)
-- 🔭 I’m currently working on **My Website**
+- 🔭 I’m currently working on **Python Machine Learning**
 
-- 🌱 I’m currently learning **.Net, Rust, Node.js**
+- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, Natural Language Processing and Image Processing**
 
 - 🤝 I’m looking for help with **Go file operations**
 
