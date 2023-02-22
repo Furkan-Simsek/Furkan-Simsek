@@ -6,7 +6,7 @@
 
 - 📫 How to reach me furkansimsek@duck.com
 
-- [Other](other.md)
+
 ###
 
 <h2 align="left">About me</h2>
