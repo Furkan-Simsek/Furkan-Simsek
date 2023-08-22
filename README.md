@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning dronekit<br>🎯 Goals: Developing myself in the field of AI</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ML<br>🎯 Goals: Developing myself in the field of AI</p>
 
 ###
 
