@@ -2,7 +2,7 @@
 
 <p align="left">My name is Furkan Şimşek and I'm an AI Developer, from Turkey</p>
 
-- 📫 How to reach me furkansimsek@duck.com
+- 📫 How to reach me furkansimsek@lunar.web.tr
 
 
 ###
